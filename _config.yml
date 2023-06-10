@@ -83,12 +83,12 @@ author:
   name             : "Luke Walden"
   avatar           : "profile.png"
   bio              : "3rd year PhD student in Educational Psychology & Research"
-  location         : "The University of Memphis; Memphis, TN"
+  location         : "The University of Memphis"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "lcwalden@memphis.edu"
+  researchgate     : "https://www.researchgate.net/profile/Luke-Walden-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/luke-walden-24983617b"
+  orcid            : "http://orcid.org/0000-0001-6910-0104"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
